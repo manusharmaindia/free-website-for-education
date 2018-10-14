@@ -1,0 +1,15 @@
+Python programming uses indentation nda spaces instead of brackets.
+Python 3 and Python commonly known as python are different, python 3 is a seprate coding language it is not a version of python.
+
+Now we will see some common task
+Declaring variable in python 3, we not need to declare a seprate variable like in c++ like int num;
+in python 3 just passing value is enough like i = 3 enough it will automatically take 3 as a integer.
+
+Defining a function in python 3
+Very easy just 
+def function name :
+  "your function code here in indentation"
+
+
+
+
